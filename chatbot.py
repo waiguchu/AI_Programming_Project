@@ -1,7 +1,7 @@
 def chatbot():
     print("Hello! I'm your AI Course Assistant Bot.")
     name = input("Before we begin what is your name? ")
-    print(f"\nNice to meet you, {Zoro Roronoa}! You can ask me about: Anything involving AI.")
+    print(f"\nNice to meet you, {Zoro}! You can ask me about: Anything involving AI.")
     print("Type 'quit' to exit.\n")
 
     while True:
